@@ -1,6 +1,0 @@
-{
-    "rust-analyzer.cargo.buildScripts.enable": true,
-    "[rust]": {
-        "editor.formatOnSave": true
-    }
-}
